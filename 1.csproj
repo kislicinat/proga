@@ -1,0 +1,37 @@
+using System; 
+using System.Collections.Generic; 
+using System.Linq; 
+using System.Text; 
+using System.Threading.Tasks; 
+
+namespace task6 
+{ 
+    internal class Program 
+    { 
+        static void Main(string[] args) 
+        { 
+            Console.WriteLine("Введите текст на русском языке:");  
+            var text = Console.ReadLine(); 
+            Console.WriteLine(Translate(text)); 
+            Console.ReadKey(); 
+        } 
+        static string Translate(string s) 
+        {
+            Dictionary<char, string> russianToEnglish = new Dictionary<char, string>()
+            {
+                {'А', "A"}, {'Б', "B"}, {'В', "V"}, {'Г', "G"}, {'Д', "D"}, {'Е', "E"}, {'Ё', "E"}, {'Ж', "ZH"},
+                {'З', "Z"}, {'И', "I"}, {'Й', "I"}, {'К', "K"}, {'Л', "L"}, {'М', "M"}, {'Н', "N"}, {'О', "O"},
+                {'П', "P"}, {'Р', "R"}, {'С', "C"}, {'Т', "T"}, {'У', "U"}, {'Ф', "F"}, {'Х', "H"}, {'Ц', "TS"},
+                {'Ч', "CH"}, {'Ш', "SH"}, {'Щ', "SHCH"}, {'Ъ', "IE"}, {'Ы', "Y"}, {'Ь', ""}, {'Э', "E"}, {'Ю', "YU"},
+                {'Я', "IA"}
+            };
+
+            string result = s.ToUpper();
+            foreach (KeyValuePair<char, string> pair in russianToEnglish)
+            {
+                result = result.Replace(pair.Key, pair.Value);
+            }
+            return result;
+        } 
+    } 
+}

@@ -1,0 +1,15 @@
+/Users/tanakislicyna/Desktop/proga/bin/Debug/net8.0/proga
+/Users/tanakislicyna/Desktop/proga/bin/Debug/net8.0/proga.deps.json
+/Users/tanakislicyna/Desktop/proga/bin/Debug/net8.0/proga.runtimeconfig.json
+/Users/tanakislicyna/Desktop/proga/bin/Debug/net8.0/proga.dll
+/Users/tanakislicyna/Desktop/proga/bin/Debug/net8.0/proga.pdb
+/Users/tanakislicyna/Desktop/proga/obj/Debug/net8.0/proga.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tanakislicyna/Desktop/proga/obj/Debug/net8.0/proga.AssemblyInfoInputs.cache
+/Users/tanakislicyna/Desktop/proga/obj/Debug/net8.0/proga.AssemblyInfo.cs
+/Users/tanakislicyna/Desktop/proga/obj/Debug/net8.0/proga.csproj.CoreCompileInputs.cache
+/Users/tanakislicyna/Desktop/proga/obj/Debug/net8.0/proga.sourcelink.json
+/Users/tanakislicyna/Desktop/proga/obj/Debug/net8.0/proga.dll
+/Users/tanakislicyna/Desktop/proga/obj/Debug/net8.0/refint/proga.dll
+/Users/tanakislicyna/Desktop/proga/obj/Debug/net8.0/proga.pdb
+/Users/tanakislicyna/Desktop/proga/obj/Debug/net8.0/proga.genruntimeconfig.cache
+/Users/tanakislicyna/Desktop/proga/obj/Debug/net8.0/ref/proga.dll

@@ -1,0 +1,12 @@
+/Users/tanakislicyna/Desktop/proga/ClassLibrary1/bin/Debug/net8.0/ClassLibrary1.deps.json
+/Users/tanakislicyna/Desktop/proga/ClassLibrary1/bin/Debug/net8.0/ClassLibrary1.dll
+/Users/tanakislicyna/Desktop/proga/ClassLibrary1/bin/Debug/net8.0/ClassLibrary1.pdb
+/Users/tanakislicyna/Desktop/proga/ClassLibrary1/obj/Debug/net8.0/ClassLibrary1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tanakislicyna/Desktop/proga/ClassLibrary1/obj/Debug/net8.0/ClassLibrary1.AssemblyInfoInputs.cache
+/Users/tanakislicyna/Desktop/proga/ClassLibrary1/obj/Debug/net8.0/ClassLibrary1.AssemblyInfo.cs
+/Users/tanakislicyna/Desktop/proga/ClassLibrary1/obj/Debug/net8.0/ClassLibrary1.csproj.CoreCompileInputs.cache
+/Users/tanakislicyna/Desktop/proga/ClassLibrary1/obj/Debug/net8.0/ClassLibrary1.sourcelink.json
+/Users/tanakislicyna/Desktop/proga/ClassLibrary1/obj/Debug/net8.0/ClassLibrary1.dll
+/Users/tanakislicyna/Desktop/proga/ClassLibrary1/obj/Debug/net8.0/refint/ClassLibrary1.dll
+/Users/tanakislicyna/Desktop/proga/ClassLibrary1/obj/Debug/net8.0/ClassLibrary1.pdb
+/Users/tanakislicyna/Desktop/proga/ClassLibrary1/obj/Debug/net8.0/ref/ClassLibrary1.dll
